@@ -1,0 +1,17 @@
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.exe
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.deps.json
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.runtimeconfig.json
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.runtimeconfig.dev.json
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.dll
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\CSharpSelenium.pdb
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\CSharpSelenium\CSharpSelenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.csproj.AssemblyReference.cache
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.AssemblyInfoInputs.cache
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.AssemblyInfo.cs
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.csproj.CoreCompileInputs.cache
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.csproj.CopyComplete
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.dll
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.pdb
+D:\Learning\CSharpSelenium\CSharpSelenium\obj\Debug\netcoreapp3.1\CSharpSelenium.genruntimeconfig.cache

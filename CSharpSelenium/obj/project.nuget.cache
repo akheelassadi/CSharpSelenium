@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fExsIpRAf71uadXSolcQA3IGQd1sJV4LqNBIX1YefuGs/+5BWPNvEJ39aKbwC8Mh1U+LDK2PlT0YRZpH2D0hzg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\CSharpSelenium\\CSharpSelenium\\CSharpSelenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
